@@ -1,2 +1,2 @@
-# csanad08
+# SZGMGYAK
 Ez az elso reponk!
